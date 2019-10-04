@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:leonardo",
+    "output": "./build",
+    "programmer": "Arduino as ISP",
+    "port": "COM8",
+    "sketch": "gamectl.ino"
+}

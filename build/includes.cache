@@ -1,0 +1,47 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\pojdd\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\pojdd\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\variants\\leonardo"
+  },
+  {
+    "Sourcefile": "e:\\temp\\gamectl\\build\\sketch\\gamectl.ino.cpp",
+    "Include": "Keyboard.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\Keyboard\\src"
+  },
+  {
+    "Sourcefile": "e:\\temp\\gamectl\\build\\sketch\\gamectl.ino.cpp",
+    "Include": "HID.h",
+    "Includepath": "C:\\Users\\pojdd\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\libraries\\HID\\src"
+  },
+  {
+    "Sourcefile": "e:\\temp\\gamectl\\build\\sketch\\gamectl.ino.cpp",
+    "Include": "Mouse.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\Mouse\\src"
+  },
+  {
+    "Sourcefile": "e:\\temp\\gamectl\\build\\sketch\\gamectl.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Keyboard\\src\\Keyboard.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\pojdd\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\libraries\\HID\\src\\HID.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Mouse\\src\\Mouse.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
